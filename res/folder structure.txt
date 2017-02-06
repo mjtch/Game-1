@@ -1,0 +1,9 @@
+each character has a folder
+each folder has:
+- idle.png
+- running.png
+- jumping.png
+- landing.png
+- attack1.png
+- attack2.png
+- attack3.png
